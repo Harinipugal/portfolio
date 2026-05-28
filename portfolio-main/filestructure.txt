@@ -1,0 +1,46 @@
+|-- .firebase
+    |-- hosting.ZGlzdA.cache
+|-- .gitignore
+|-- eslint.config.js
+|-- firebase.js
+|-- firebase.json
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- public
+    |-- assets
+        |-- elitepath.png
+        |-- forklift.png
+        |-- hotwheels.png
+        |-- lab-link.png
+        |-- msec.png
+        |-- nexus.png
+    |-- code-icon.svg
+    |-- Guru_surya_raja_Resume_latex.pdf
+|-- src
+    |-- App.tsx
+    |-- components
+        |-- About.jsx
+        |-- Contact.jsx
+        |-- ErrorBoundary.tsx
+        |-- Experience.jsx
+        |-- Footer.jsx
+        |-- Hero.jsx
+        |-- Navbar.jsx
+        |-- Projects.jsx
+        |-- Skills.jsx
+    |-- constants
+        |-- index.js
+        |-- index.ts
+    |-- context
+        |-- ThemeContext.tsx
+    |-- index.css
+    |-- main.tsx
+    |-- utils
+        |-- themeClass.ts
+|-- tailwind.config.js
+|-- tsconfig.app.json
+|-- tsconfig.json
+|-- tsconfig.node.json
+|-- vite.config.ts
