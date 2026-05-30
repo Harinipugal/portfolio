@@ -68,7 +68,7 @@ export const HERO_CONTENT: HeroContent = {
     subHeadline: "Specializing in MERN stack web apps, REST APIs, and production-grade UIs that solve real problems and ship fast.",
     ctaViewWork: "View Work",
     ctaResume: "Download Resume",
-    resumeLink: "./Guru_Surya_Raja_Resume.pdf",
+    resumeLink: "/P_Harini_Resume.pdf",
 };
 
 export const ABOUT_CONTENT: AboutContent = {
@@ -126,7 +126,7 @@ export const PROJECTS: Project[] = [
         tags: ["React.js", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
         image: "/assets/elitepath.png",
         liveUrl: "https://mern-job-portal-plum.vercel.app/",
-        githubUrl: "https://github.com/Guru-Surya-Raja-J",
+        githubUrl: "https://github.com/Harinipugal",
         isPrivate: true,
         category: "Personal Project"
     },
@@ -136,7 +136,7 @@ export const PROJECTS: Project[] = [
         tags: ["React.js", "Node.js", "Express", "MongoDB", "CSS3", "Bootstrap"],
         image: "/assets/lab-link.png",
         liveUrl: "https://lablink.live/",
-        githubUrl: "https://github.com/Guru-Surya-Raja-J",
+        githubUrl: "https://github.com/Harinipugal",
         isPrivate: false,
         category: "Personal Project"
     },
@@ -146,7 +146,7 @@ export const PROJECTS: Project[] = [
         tags: ["React.js", "Node.js", "Express", "MongoDB", "Redux", "Vite", "Pure CSS"],
         image: "/assets/nexus.png",
         liveUrl: "https://nexus-governance.vercel.app/",
-        githubUrl: "https://github.com/Guru-Surya-Raja-J",
+        githubUrl: "https://github.com/Harinipugal",
         isPrivate: true,
         category: "Client Work"
     },
@@ -156,7 +156,7 @@ export const PROJECTS: Project[] = [
         tags: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Cloudinary", "Firebase"],
         image: "/assets/msec.png",
         liveUrl: "https://msec-it-cc.web.app",
-        githubUrl: "https://github.com/Guru-Surya-Raja-J",
+        githubUrl: "https://github.com/Harinipugal",
         isPrivate: true,
         category: "Client Work"
     },
